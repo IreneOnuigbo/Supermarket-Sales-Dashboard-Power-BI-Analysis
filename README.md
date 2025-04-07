@@ -18,13 +18,13 @@ This project analyzes supermarket sales data using Power BI to uncover insights 
 
 
 ## Objectives  
-1.**What is the total revenue and number of transactions?**
+1.**What is the total revenue and number of transactions?**  
 2. **Which product lines generate the most sales?**  
 3. **How do customer types behave across genders?**  
 4. **Which branch performs best in terms of revenue?**  
 5. **What are the peak hours and days for shopping?**  
-6. **Which payment methods are most preferred?**
-7. **What is the average customer rating?**
+6. **Which payment methods are most preferred?** 
+7. **What is the average customer rating?**  
 
 
 ## Goal
