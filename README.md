@@ -23,7 +23,7 @@ This project analyzes supermarket sales data using Power BI to uncover insights 
 3. **How do customer types behave across genders?**  
 4. **Which branch performs best in terms of revenue?**  
 5. **What are the peak hours and days for shopping?**  
-6. **Which payment methods are most preferred?** 
+6. **Which payment methods are most preferred?**       
 7. **What is the average customer rating?**   
 
 
